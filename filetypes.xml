@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="api" type="Groovy" />
+      <mapping pattern="AbstractAffiliateConfig.scala" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
