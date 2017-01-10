@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="Sybase" injector-id="java">
+      <display-name>Connection.createQuery (org.sql2o)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.sql2o.Connection"))]]></place>
+    </injection>
   </component>
 </application>
