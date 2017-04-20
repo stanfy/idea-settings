@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +17,17 @@
       <mask>*.xml</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.п</mask>
+      <mask>*.пк</mask>
+      <mask>*.пкщ</mask>
+      <mask>*.пкщщмн</mask>
+      <mask>*.пкщщм</mask>
+      <mask>*.пкщщ</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
